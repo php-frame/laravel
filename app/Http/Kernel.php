@@ -6,6 +6,7 @@ use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
 class Kernel extends HttpKernel
 {
+    // More new sexy girl keep showing in kolier WeChat Moments.
     /**
      * The application's global HTTP middleware stack.
      *
